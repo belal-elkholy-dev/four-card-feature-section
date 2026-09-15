@@ -137,6 +137,7 @@ header p {
   font-size: 0.6875rem;
   text-align: center;
   margin-top: 1.25rem;
+  line-height: 1.6;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);

@@ -73,7 +73,7 @@ header p {
   font-size: var(--paragraph-font-size);
 }
 .cards {
-  margin-top: 3.125rem;
+  margin-top: 2.8125rem;
   display: grid;
   gap: 1.875rem;
 }
